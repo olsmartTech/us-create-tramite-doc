@@ -1,0 +1,6 @@
+anifest-Version: 1.0
+Built-By: orlando
+Build-Jdk: 11.0.5
+Created-By: Apache Maven
+Main-Class: pe.com.essalud.tramitedoc.config.SpringBootApp
+Archiver-Version: Plexus Archiver

@@ -1,0 +1,957 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="us-create-tramite-doc:war" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f0a6e27a-894a-4a12-afd7-83dcf8913d30" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pe/com/essalud/tramitedoc/controller/TramiteController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="46" column="64" lean-forward="true" selection-start-line="46" selection-start-column="64" selection-end-line="46" selection-end-column="64" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pe/com/essalud/tramitedoc/config/Config.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#729#730#0" expanded="true" />
+                <element signature="e#773#774#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pe/com/essalud/tramitedoc/config/SpringBootApp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="172">
+              <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pe/com/essalud/tramitedoc/dao/TramiteDAOImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="124">
+              <caret line="403" column="47" selection-start-line="403" selection-start-column="47" selection-end-line="403" selection-end-column="47" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pe/com/essalud/tramitedoc/business/TramiteServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>createInteresadosMpv</find>
+      <find>resultado::</find>
+      <find>FINALIZANDO Y RECUPERANDO DATOS 1 ***</find>
+      <find>createDocumentoTemporal</find>
+      <find>RESULTDO DE CREAR INTERESADO</find>
+      <find>-OUT DEL SP</find>
+      <find>createFileMpv</find>
+      <find>tamanoArchivo</find>
+      <find>downloadDataFile</find>
+      <find>LLEGO A PASAR POR AQUI</find>
+      <find>LLEGO A PASAR</find>
+      <find>MOSTRANDO EL RESULTADO DEL INTERESADO</find>
+      <find>Please initialize the log4j system properly.</find>
+      <find>Base64</find>
+      <find>==Inicio del metodo createTramiteExterno</find>
+      <find>System.out.println</find>
+      <find>logger.info</find>
+      <find>[PID_TIPO_PRODUCTO:</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/pe/com/essalud/tramitedoc/web/jboss-deployment-structure.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/pe/com/essalud/tramitedoc/config/ServletInitializer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pe/com/essalud/tramitedoc/beans/ResponseBean.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pe/com/essalud/tramitedoc/beans/InteresadoMpv.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pe/com/essalud/tramitedoc/util/FechaUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pe/com/essalud/tramitedoc/dao/TramiteDAO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pe/com/essalud/tramitedoc/beans/ArchivoAnexo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pe/com/essalud/tramitedoc/beans/Documento.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pe/com/essalud/tramitedoc/beans/TramiteBean.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pe/com/essalud/tramitedoc/util/Base64.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pe/com/essalud/tramitedoc/dao/TramiteDAOImpl.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/pe/com/essalud/tramitedoc/controller/TramiteController.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/config/application.yml" />
+        <option value="$PROJECT_DIR$/src/main/java/pe/com/essalud/tramitedoc/config/SpringBootApp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pe/com/essalud/tramitedoc/config/Config.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="us-create-tramite-doc" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="us-create-tramite-doc" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="416" />
+    <option name="y" value="28" />
+    <option name="width" value="911" />
+    <option name="height" value="728" />
+  </component>
+  <component name="ProjectId" id="1i3WHEOsrSX8QN1Vmw4hzc1f0NX" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="us-create-tramite-doc" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="D:\Mis trabajos\Essalud\Mesadepartes\Servicios\us-create-tramite-doc" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="us-create-tramite-doc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="us-create-tramite-doc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="us-create-tramite-doc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="us-create-tramite-doc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="us-create-tramite-doc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="us-create-tramite-doc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="us-create-tramite-doc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="us-create-tramite-doc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="us-create-tramite-doc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="us-create-tramite-doc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="tramitedoc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="us-create-tramite-doc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="us-create-tramite-doc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="tramitedoc" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="us-create-tramite-doc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="us-create-tramite-doc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="tramitedoc" type="462c0819:PsiDirectoryNode" />
+              <item name="exception" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="us-create-tramite-doc" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="XML" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/pe/com/essalud/tramitedoc/util" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.28275862" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Mis trabajos\Essalud\Mesadepartes\Servicios\us-create-tramite-doc\src\main\java\pe\com\essalud\tramitedoc\util" />
+      <recent name="D:\Mis trabajos\Essalud\Mesadepartes\Servicios\us-create-tramite-doc\src\main\webapp\lib" />
+      <recent name="D:\Mis trabajos\Essalud\Mesadepartes\Servicios\us-create-tramite-doc\src\main\java\pe\com\essalud\tramitedoc\config" />
+      <recent name="D:\Mis trabajos\Essalud\Mesadepartes\Servicios\us-create-tramite-doc\src\main\java\pe\com\essalud\tramitedoc\web" />
+      <recent name="$PROJECT_DIR$/src/main" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="pe.com.essalud.tramitedoc.config" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/web/WEB-INF" />
+      <recent name="D:\Mis trabajos\Essalud\Mesadepartes\Servicios\us-create-tramite-doc\src\main\resources\config" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SpringBootApp">
+    <configuration name="JBoss 11.0.10.Final-redhat-1" type="JBossConfiguration" factoryName="Local" APPLICATION_SERVER_NAME="JBoss 11.0.10.Final-redhat-1" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment />
+      <server-settings>
+        <option name="SERVER" />
+        <option name="BINDING_SET_NAME" value="" />
+        <option name="DOMAIN" value="false" />
+        <option name="SERVER_GROUP" value="main-server-group" />
+        <option name="USERNAME" value="jboos" />
+        <option name="CREDENTIAL_ALIAS" value="e1adcaee-f361-4c92-82d6-f421faafbc6f" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="JBoss" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="54620" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="JBossConfiguration" factoryName="Remote" APPLICATION_SERVER_NAME="JBoss 11.0.10.Final-redhat-1" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="LOCAL" value="false" />
+      <deployment />
+      <server-settings>
+        <data>
+          <option name="serverGroup" value="" />
+          <option name="stagingRemotePath" value="" />
+          <option name="transportHostId" />
+          <option name="transportStagingTarget">
+            <TransportTarget>
+              <option name="id" value="30b6754b-d5b0-4c48-b237-1bcefc63e025" />
+              <id>30b6754b-d5b0-4c48-b237-1bcefc63e025</id>
+            </TransportTarget>
+          </option>
+          <server-group />
+          <transport-target>
+            <TransportTarget>
+              <option name="id" value="30b6754b-d5b0-4c48-b237-1bcefc63e025" />
+              <id>30b6754b-d5b0-4c48-b237-1bcefc63e025</id>
+            </TransportTarget>
+          </transport-target>
+          <staging-path />
+        </data>
+      </server-settings>
+      <predefined_log_file enabled="true" id="JBoss" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="54616" />
+        <option name="LOCAL" value="false" />
+      </RunnerSettings>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in us-create-tramite-doc" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="us-create-tramite-doc" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="us-create-tramite-doc" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="pe.com.essalud.tramitedoc.config.App" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="us-create-tramite-doc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pe.com.essalud.tramitedoc.config.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="pe.com.essalud.tramitedoc.config.SpringBootApp" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="us-create-tramite-doc" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JBoss Server.Unnamed" />
+      <item itemvalue="JBoss Server.JBoss 11.0.10.Final-redhat-1" />
+      <item itemvalue="JUnit.All in us-create-tramite-doc" />
+      <item itemvalue="Spring Boot.App" />
+      <item itemvalue="Spring Boot.Unnamed" />
+      <item itemvalue="Spring Boot.SpringBootApp" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.SpringBootApp" />
+        <item itemvalue="JUnit.All in us-create-tramite-doc" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f0a6e27a-894a-4a12-afd7-83dcf8913d30" name="Default Changelist" comment="" />
+      <created>1601078618241</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601078618241</updated>
+      <workItem from="1601078645484" duration="35157000" />
+      <workItem from="1601120018141" duration="12802000" />
+      <workItem from="1601136667605" duration="6128000" />
+      <workItem from="1601144228393" duration="10450000" />
+      <workItem from="1601160838670" duration="12892000" />
+      <workItem from="1601223959814" duration="5473000" />
+      <workItem from="1601306115314" duration="61870000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="90685000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24810892" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.7526475" visible="true" weight="0.33006537" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Application Servers" order="7" sideWeight="0.494705" weight="0.32843137" />
+      <window_info anchor="bottom" id="Spring" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.2473525" side_tool="true" weight="0.32843137" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32843137" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="Database Changes" order="14" />
+      <window_info anchor="bottom" id="Version Control" order="15" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="1" weight="0.24962178" />
+      <window_info anchor="right" id="Maven" order="2" weight="0.32980332" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" weight="0.32980332" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info anchor="right" id="Ant Build" order="8" weight="0.24962178" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.5537721" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.7549168" visible="true" weight="0.2254902" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Application Servers" order="7" sideWeight="0.49621785" weight="0.32843137" />
+      <window_info anchor="bottom" id="Spring" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.24508321" side_tool="true" weight="0.33333334" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32843137" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="Database Changes" order="14" />
+      <window_info anchor="bottom" id="Version Control" order="15" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.32980332" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="304" y="172" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601140200806">
+      <screen x="0" y="23" width="1680" height="977" />
+    </state>
+    <state x="304" y="172" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.976@0.23.1680.976" timestamp="1601137392696" />
+    <state x="304" y="172" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.977@0.23.1680.977" timestamp="1601140200806" />
+    <state x="673" y="406" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1601136675747">
+      <screen x="0" y="23" width="1680" height="976" />
+    </state>
+    <state x="673" y="406" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1680.976@0.23.1680.976" timestamp="1601136675747" />
+    <state width="1638" height="362" key="GridCell.Tab.0.bottom" timestamp="1601142842974">
+      <screen x="0" y="23" width="1680" height="979" />
+    </state>
+    <state width="1638" height="512" key="GridCell.Tab.0.bottom/0.23.1680.976@0.23.1680.976" timestamp="1601137826880" />
+    <state width="1638" height="362" key="GridCell.Tab.0.bottom/0.23.1680.977@0.23.1680.977" timestamp="1601142446328" />
+    <state width="1638" height="548" key="GridCell.Tab.0.bottom/0.23.1680.978@0.23.1680.978" timestamp="1601140285067" />
+    <state width="1638" height="362" key="GridCell.Tab.0.bottom/0.23.1680.979@0.23.1680.979" timestamp="1601142842974" />
+    <state width="1638" height="362" key="GridCell.Tab.0.center" timestamp="1601142842973">
+      <screen x="0" y="23" width="1680" height="979" />
+    </state>
+    <state width="1638" height="512" key="GridCell.Tab.0.center/0.23.1680.976@0.23.1680.976" timestamp="1601137826879" />
+    <state width="1638" height="362" key="GridCell.Tab.0.center/0.23.1680.977@0.23.1680.977" timestamp="1601142446327" />
+    <state width="1638" height="548" key="GridCell.Tab.0.center/0.23.1680.978@0.23.1680.978" timestamp="1601140285065" />
+    <state width="1638" height="362" key="GridCell.Tab.0.center/0.23.1680.979@0.23.1680.979" timestamp="1601142842973" />
+    <state width="1638" height="362" key="GridCell.Tab.0.left" timestamp="1601142842972">
+      <screen x="0" y="23" width="1680" height="979" />
+    </state>
+    <state width="1638" height="512" key="GridCell.Tab.0.left/0.23.1680.976@0.23.1680.976" timestamp="1601137826879" />
+    <state width="1638" height="362" key="GridCell.Tab.0.left/0.23.1680.977@0.23.1680.977" timestamp="1601142446326" />
+    <state width="1638" height="548" key="GridCell.Tab.0.left/0.23.1680.978@0.23.1680.978" timestamp="1601140285065" />
+    <state width="1638" height="362" key="GridCell.Tab.0.left/0.23.1680.979@0.23.1680.979" timestamp="1601142842972" />
+    <state width="1638" height="362" key="GridCell.Tab.0.right" timestamp="1601142842974">
+      <screen x="0" y="23" width="1680" height="979" />
+    </state>
+    <state width="1638" height="512" key="GridCell.Tab.0.right/0.23.1680.976@0.23.1680.976" timestamp="1601137826880" />
+    <state width="1638" height="362" key="GridCell.Tab.0.right/0.23.1680.977@0.23.1680.977" timestamp="1601142446327" />
+    <state width="1638" height="548" key="GridCell.Tab.0.right/0.23.1680.978@0.23.1680.978" timestamp="1601140285066" />
+    <state width="1638" height="362" key="GridCell.Tab.0.right/0.23.1680.979@0.23.1680.979" timestamp="1601142842974" />
+    <state width="1638" height="362" key="GridCell.Tab.1.bottom" timestamp="1601142842976">
+      <screen x="0" y="23" width="1680" height="979" />
+    </state>
+    <state width="1638" height="362" key="GridCell.Tab.1.bottom/0.23.1680.977@0.23.1680.977" timestamp="1601142446330" />
+    <state width="1638" height="548" key="GridCell.Tab.1.bottom/0.23.1680.978@0.23.1680.978" timestamp="1601140285068" />
+    <state width="1638" height="362" key="GridCell.Tab.1.bottom/0.23.1680.979@0.23.1680.979" timestamp="1601142842976" />
+    <state width="1638" height="362" key="GridCell.Tab.1.center" timestamp="1601142842975">
+      <screen x="0" y="23" width="1680" height="979" />
+    </state>
+    <state width="1638" height="362" key="GridCell.Tab.1.center/0.23.1680.977@0.23.1680.977" timestamp="1601142446329" />
+    <state width="1638" height="548" key="GridCell.Tab.1.center/0.23.1680.978@0.23.1680.978" timestamp="1601140285067" />
+    <state width="1638" height="362" key="GridCell.Tab.1.center/0.23.1680.979@0.23.1680.979" timestamp="1601142842975" />
+    <state width="1638" height="362" key="GridCell.Tab.1.left" timestamp="1601142842974">
+      <screen x="0" y="23" width="1680" height="979" />
+    </state>
+    <state width="1638" height="362" key="GridCell.Tab.1.left/0.23.1680.977@0.23.1680.977" timestamp="1601142446328" />
+    <state width="1638" height="548" key="GridCell.Tab.1.left/0.23.1680.978@0.23.1680.978" timestamp="1601140285067" />
+    <state width="1638" height="362" key="GridCell.Tab.1.left/0.23.1680.979@0.23.1680.979" timestamp="1601142842974" />
+    <state width="1638" height="362" key="GridCell.Tab.1.right" timestamp="1601142842976">
+      <screen x="0" y="23" width="1680" height="979" />
+    </state>
+    <state width="1638" height="362" key="GridCell.Tab.1.right/0.23.1680.977@0.23.1680.977" timestamp="1601142446329" />
+    <state width="1638" height="548" key="GridCell.Tab.1.right/0.23.1680.978@0.23.1680.978" timestamp="1601140285068" />
+    <state width="1638" height="362" key="GridCell.Tab.1.right/0.23.1680.979@0.23.1680.979" timestamp="1601142842976" />
+    <state x="439" y="210" key="new project wizard" timestamp="1601142716676">
+      <screen x="0" y="23" width="1680" height="978" />
+    </state>
+    <state x="439" y="210" key="new project wizard/0.23.1680.978@0.23.1680.978" timestamp="1601142716676" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/pe/com/essalud/tramitedoc/web/jboss-deployment-structure.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/config/application-qa.yml" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/pe/com/essalud/tramitedoc/business/TramiteService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pe/com/essalud/tramitedoc/config/ServletInitializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pe/com/essalud/tramitedoc/beans/DocumentBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pe/com/essalud/tramitedoc/beans/ResponseBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="17" column="31" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="31" />
+          <folding>
+            <element signature="e#374#375#0" expanded="true" />
+            <element signature="e#409#410#0" expanded="true" />
+            <element signature="e#463#464#0" expanded="true" />
+            <element signature="e#511#512#0" expanded="true" />
+            <element signature="e#645#646#0" expanded="true" />
+            <element signature="e#695#696#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pe/com/essalud/tramitedoc/beans/InteresadoMpv.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="41" column="18" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="18" />
+          <folding>
+            <element signature="e#505#506#0" expanded="true" />
+            <element signature="e#540#541#0" expanded="true" />
+            <element signature="e#986#987#0" expanded="true" />
+            <element signature="e#1024#1025#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="110" column="19" selection-start-line="110" selection-start-column="19" selection-end-line="110" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/jre/lib/rt.jar!/com/sun/xml/internal/messaging/saaj/packaging/mime/util/BASE64DecoderStream.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="95" selection-start-line="95" selection-end-line="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pe/com/essalud/tramitedoc/beans/Documento.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="35" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+          <folding>
+            <element signature="e#295#296#0" expanded="true" />
+            <element signature="e#329#330#0" expanded="true" />
+            <element signature="e#383#384#0" expanded="true" />
+            <element signature="e#429#430#0" expanded="true" />
+            <element signature="e#499#500#0" expanded="true" />
+            <element signature="e#551#552#0" expanded="true" />
+            <element signature="e#595#596#0" expanded="true" />
+            <element signature="e#638#639#0" expanded="true" />
+            <element signature="e#677#678#0" expanded="true" />
+            <element signature="e#741#742#0" expanded="true" />
+            <element signature="e#797#798#0" expanded="true" />
+            <element signature="e#837#838#0" expanded="true" />
+            <element signature="e#872#873#0" expanded="true" />
+            <element signature="e#929#930#0" expanded="true" />
+            <element signature="e#977#978#0" expanded="true" />
+            <element signature="e#1017#1018#0" expanded="true" />
+            <element signature="e#1053#1054#0" expanded="true" />
+            <element signature="e#1111#1112#0" expanded="true" />
+            <element signature="e#1161#1162#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pe/com/essalud/tramitedoc/dao/TramiteDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="14" column="43" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pe/com/essalud/tramitedoc/beans/ArchivoAnexo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="86" column="5" selection-start-line="86" selection-start-column="5" selection-end-line="86" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2215#2216#0" expanded="true" />
+            <element signature="e#2242#2243#0" expanded="true" />
+            <element signature="e#2282#2283#0" expanded="true" />
+            <element signature="e#2314#2315#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pe/com/essalud/tramitedoc/beans/TramiteBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-646">
+          <caret line="38" column="18" selection-start-line="38" selection-start-column="18" selection-end-line="38" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1341#1342#0" expanded="true" />
+            <element signature="e#1377#1378#0" expanded="true" />
+            <element signature="e#1438#1439#0" expanded="true" />
+            <element signature="e#1488#1489#0" expanded="true" />
+            <element signature="e#1538#1539#0" expanded="true" />
+            <element signature="e#1575#1576#0" expanded="true" />
+            <element signature="e#1644#1645#0" expanded="true" />
+            <element signature="e#1696#1697#0" expanded="true" />
+            <element signature="e#1239#1240#0" expanded="true" />
+            <element signature="e#1275#1276#0" expanded="true" />
+            <element signature="e#1340#1341#0" expanded="true" />
+            <element signature="e#1390#1391#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pe/com/essalud/tramitedoc/business/TramiteServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pe/com/essalud/tramitedoc/dao/TramiteDAOImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="403" column="47" selection-start-line="403" selection-start-column="47" selection-end-line="403" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="107" column="12" selection-start-line="107" selection-start-column="12" selection-end-line="107" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/config/application.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pe/com/essalud/tramitedoc/controller/TramiteController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="46" column="64" lean-forward="true" selection-start-line="46" selection-start-column="64" selection-end-line="46" selection-end-column="64" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pe/com/essalud/tramitedoc/util/Base64.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30243">
+          <caret line="1972" column="57" selection-start-line="1972" selection-start-column="57" selection-end-line="1972" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pe/com/essalud/tramitedoc/exception/BaseException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pe/com/essalud/tramitedoc/exception/DaoException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-68">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pe/com/essalud/tramitedoc/exception/DaoTimeOutException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-119">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pe/com/essalud/tramitedoc/util/FechaUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pe/com/essalud/tramitedoc/util/Constantes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pe/com/essalud/tramitedoc/config/SpringBootApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pe/com/essalud/tramitedoc/config/Config.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#729#730#0" expanded="true" />
+            <element signature="e#773#774#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>us-create-tramite-doc:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.28275862" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>commons-codec-1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.28275862" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
